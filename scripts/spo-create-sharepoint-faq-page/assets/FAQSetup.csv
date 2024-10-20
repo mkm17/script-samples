@@ -1,0 +1,4 @@
+﻿Question,Answer,BackgroundType,BackgroundDetails,IsCollapsed
+Question 1 ,Random answer,Gradient,"linear-gradient(72.44deg, #E6FBFE 0%, #EDDDFB 100%)",FALSE
+Question 2,Random answer,Image,https://avatars.githubusercontent.com/u/31443929?s=200&v=4,FALSE
+Question 3,Random answer,Soft,Soft,TRUE
